@@ -2,7 +2,7 @@
 
 Página desenvolvida para apresentar cursos profissionalizantes e de graduação.
 
-![Prévia da página SEMAX](image.png)
+![Prévia da página SEMAX](images/image.png)
 
 ## Sobre o projeto
 
