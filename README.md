@@ -1,6 +1,21 @@
 # SEMAX - Página de Cursos
 
-Página simples para apresentar cursos profissionalizantes e de graduação.
+Página desenvolvida para apresentar cursos profissionalizantes e de graduação.
+
+![Prévia da página SEMAX](image.png)
+
+## Sobre o projeto
+
+O projeto foi criado como atividade de introdução ao desenvolvimento web. Ele apresenta uma página institucional com menu de navegação, banner principal, cards de cursos e informações de contato.
+
+## Recursos
+
+- Menu de navegação
+- Apresentação da instituição
+- Cards com cursos e carga horária
+- Links para informações dos cursos
+- Rodapé com contato
+- Layout adaptado para telas menores
 
 ## Tecnologias
 
@@ -8,23 +23,6 @@ Página simples para apresentar cursos profissionalizantes e de graduação.
 - CSS
 - Flexbox
 
-## Sobre o projeto
-
-O projeto foi desenvolvido como atividade de introdução ao desenvolvimento web.
-
-A página possui:
-
-- Menu de navegação;
-- Apresentação da instituição;
-- Cards com cursos;
-- Imagens dos cursos;
-- Links para saber mais;
-- Rodapé com informações de contato.
-
 ## Como visualizar
 
-Abra o arquivo `index.html` em um navegador.
-
-## Autor
-
-Aluno do 1º período de Front-end.
+Abra o arquivo `index.html` em qualquer navegador.
